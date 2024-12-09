@@ -1,0 +1,55 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.tp</groupId>
+  <artifactId>UserProductApp</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <dependencies>
+    <!-- Dépendance pour MongoDB -->
+    <dependency>
+      <groupId>org.mongodb</groupId>
+      <artifactId>mongodb-driver-sync</artifactId>
+      <version>4.10.2</version>
+    </dependency>
+
+    <!-- Dépendance pour Gson -->
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.10</version>
+    </dependency>
+
+    <!-- SLF4J API -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.36</version> <!-- Version stable -->
+    </dependency>
+
+    <!-- Logback Classic (implémentation de SLF4J) -->
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.2.11</version> <!-- Version compatible avec SLF4J 1.7.36 -->
+    </dependency>
+
+    <!-- Logback Core (nécessaire pour Logback Classic) -->
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-core</artifactId>
+      <version>1.2.11</version>
+    </dependency>
+
+    <!-- Eclipse JDT Core -->
+    <dependency>
+      <groupId>org.eclipse.jdt</groupId>
+      <artifactId>org.eclipse.jdt.core</artifactId>
+      <version>3.32.0</version> <!-- Vérifie la version installée -->
+    </dependency>
+  </dependencies>
+
+</project>

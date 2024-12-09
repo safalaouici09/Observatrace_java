@@ -1,0 +1,74 @@
+2024-12-04 13:11:27 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-04 13:11:27 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-04 16:07:44 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-04 16:07:44 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-04 16:08:36 INFO  [main] ProductRepository - Produits sauvegardés dans le fichier.
+2024-12-04 16:08:36 INFO  [main] ProductRepository - Produit ajouté: ID = 5, Nom = produit 5 
+2024-12-06 10:39:02 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-06 10:39:02 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-06 14:07:37 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-06 14:07:37 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-06 14:25:18 INFO  [main] ProductRepository - Produits sauvegardés dans le fichier.
+2024-12-06 14:25:18 INFO  [main] ProductRepository - Produit ajouté: ID = 6, Nom = produit 6
+2024-12-08 09:30:18 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 09:30:18 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 1, Nom = prduit 1
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 2, Nom = prduit 2
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 3, Nom = produit 3
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 4, Nom = produit 4
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 5, Nom = produit 5 
+2024-12-08 09:30:37 INFO  [main] ProductRepository - Produit affiché: ID = 6, Nom = produit 6
+2024-12-08 09:31:22 INFO  [main] ProductRepository - Produit récupéré: ID = 1
+2024-12-08 09:54:07 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 09:54:07 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 09:55:42 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 09:55:42 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 10:08:27 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 10:08:27 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 10:24:06 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 10:24:06 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:13:02 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:13:02 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 1, Nom = prduit 1
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 2, Nom = prduit 2
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 3, Nom = produit 3
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 4, Nom = produit 4
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 5, Nom = produit 5 
+2024-12-08 11:13:09 INFO  [main] ProductRepository - Produit affiché: ID = 6, Nom = produit 6
+2024-12-08 11:25:33 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:25:33 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:25:41 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:25:41 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:26:48 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:26:48 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:27:15 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:27:15 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 1, Nom = prduit 1
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 2, Nom = prduit 2
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 3, Nom = produit 3
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 4, Nom = produit 4
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 5, Nom = produit 5 
+2024-12-08 11:27:21 INFO  [main] ProductRepository - Produit affiché: ID = 6, Nom = produit 6
+2024-12-08 11:29:23 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:29:23 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:32:05 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:32:05 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:34:32 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 11:34:32 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 11:36:16 INFO  [main] ProductRepository - Produits sauvegardés dans le fichier.
+2024-12-08 11:36:16 INFO  [main] ProductRepository - Produit ajouté: ID = 7, Nom = produit 7
+2024-12-08 11:49:02 INFO  [main] ProductRepository - Produits sauvegardés dans le fichier.
+2024-12-08 11:49:02 INFO  [main] ProductRepository - Produit supprimé avec succès: ID = 7
+2024-12-08 11:52:30 INFO  [main] ProductRepository - Produit récupéré: ID = 3
+2024-12-08 11:52:46 WARN  [main] ProductRepository - Produit avec l'ID 8 non trouvé.
+2024-12-08 14:40:42 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 14:40:42 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 1, Nom = prduit 1
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 2, Nom = prduit 2
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 3, Nom = produit 3
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 4, Nom = produit 4
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 5, Nom = produit 5 
+2024-12-08 14:44:57 INFO  [main] ProductRepository - Produit affiché: ID = 6, Nom = produit 6
+2024-12-08 14:45:44 INFO  [main] ProductRepository - Produit récupéré: ID = 5
+2024-12-08 17:04:35 INFO  [main] ProductRepository - Produits chargés depuis le fichier.
+2024-12-08 17:04:35 INFO  [main] ProductRepository - ProductRepository initialisé avec succès.

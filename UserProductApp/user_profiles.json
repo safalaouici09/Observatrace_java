@@ -1,0 +1,100 @@
+{
+  "userId": "user1",
+  "name": "Sarah",
+  "role": "read",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user2",
+  "name": "Safa",
+  "role": "write",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user3",
+  "name": "Sohaib",
+  "role": "read",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user4",
+  "name": "Bilel",
+  "role": "write",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user5",
+  "name": "Malek",
+  "role": "read",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user6",
+  "name": "Merieme",
+  "role": "write",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user7",
+  "name": "Muhammed",
+  "role": "read",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user8",
+  "name": "Yassine",
+  "role": "write",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user9",
+  "name": "Ikrame",
+  "role": "read",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
+{
+  "userId": "user10",
+  "name": "Rida",
+  "role": "write",
+  "actions": [
+    "viewed product with ID 1",
+    "added product with ID 2",
+    "deleted product with ID 3"
+  ]
+}
